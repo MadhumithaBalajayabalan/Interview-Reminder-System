@@ -1,4 +1,4 @@
-# Interview Reminder System
+# Interview No-Show Reduction System System
 
 ## Project Overview
 
@@ -110,7 +110,7 @@ Developed 7 SQL queries to analyse interview attendance, no-show counts, resched
 
 ## Repository Structure
 
-Interview-Reminder-System/
+Interview-No-Show-Reduction-System/
 
 ├── Documents
 │   └── Project Summary and Case Study Documents
